@@ -1,0 +1,14 @@
+# VS Code local settings
+.vscode/
+
+# Local environment and secret files
+.env
+.env.*
+
+# Azure deployment output and temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
